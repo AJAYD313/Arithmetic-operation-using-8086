@@ -61,7 +61,9 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/d3c62de4-4414-4436-b07d-6bb0cecf739a" />
+
+
 
 ---
 
@@ -94,7 +96,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/ebccfeb4-4707-4525-aeaa-a1cf3704a428" />
+
 
 ---
 
@@ -143,7 +146,8 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6cf64a25-7774-40dc-879a-283dc58e8748" />
+
 
 ---
 
@@ -188,11 +192,14 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/f34574bb-4319-4094-af08-1ae05c81802d" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+<img width="635" height="398" alt="image" src="https://github.com/user-attachments/assets/064f932d-29e3-496a-b5f0-250e089cf8c0" />
 
+<img width="642" height="401" alt="image" src="https://github.com/user-attachments/assets/f7c0f355-41d8-4252-bc10-53dc3e6236e9" />
 
 
 ## RESULT
